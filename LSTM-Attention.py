@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 19 09:21:17 2018
-
-@author: ZhWang
-"""
 import os
 import re
 import pickle
